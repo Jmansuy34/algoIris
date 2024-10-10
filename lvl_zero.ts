@@ -59,7 +59,7 @@ function root(a: number, b: number, c: number): number[] {
 }
 
 // Appel de la fonction hello
-console.log(hello());  // "Hello World!"
+console.log(hello());  
 
 // Appel de la fonction add
 console.log(add(5, 3));  
